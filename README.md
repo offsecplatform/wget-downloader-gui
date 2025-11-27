@@ -1,4 +1,4 @@
-# Wget Downloader GUI
+# [Wget Downloader GUI](https://github.com/offsecplatform/wget-downloader-gui)
 
 Simple graphical interface for `wget` with filtering, recursion control, and real-time logs.
 
