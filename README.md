@@ -1,6 +1,6 @@
 # Wget Downloader GUI
 
-Simple graphical interface for `wget` with filtering, recursion control, and real-time logs.
+Simple graphical interface for `wget` with filtering, recursion control, and real-time logs. ```https://github.com/offsecplatform/wget-downloader-gui```
 
 ---
 
@@ -58,4 +58,4 @@ python wget_gui.py
 
 
 
-[GitHub Repo](https://github.com/offsecplatform/wget-downloader-gui)
+
