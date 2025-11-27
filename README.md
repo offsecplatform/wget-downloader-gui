@@ -1,4 +1,4 @@
-# [Wget Downloader GUI](https://github.com/offsecplatform/wget-downloader-gui)
+# Wget Downloader GUI
 
 Simple graphical interface for `wget` with filtering, recursion control, and real-time logs.
 
@@ -55,3 +55,7 @@ python wget_gui.py
 ## Credits
 
 [Offensive Security Platform](https://offsecplatform.com) × [HackToLive Academy](https://hacktolive.net/)
+
+
+
+[GitHub Repo](https://github.com/offsecplatform/wget-downloader-gui)
